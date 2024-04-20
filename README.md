@@ -1,3 +1,5 @@
+# THIS PROJECT IS A SIMPLE EFFORTLESS PROJECT FOR UNIVERSITY COURSE NUMBER CSE338 Artifical Intelligence
+
 # Car Price Prediction Model
 
 ![Project Image](https://github.com/BaselAshraf81/Car_Price_Predicion/blob/main/car.webp)

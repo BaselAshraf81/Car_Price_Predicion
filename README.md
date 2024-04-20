@@ -1,21 +1,10 @@
-# Car_Price_Predicion
-CSE338 2024 AI Project
-
 # Car Price Prediction Model
 
-![Project Image](car.webp)
+![Project Image](https://github.com/BaselAshraf81/Car_Price_Predicion/blob/main/images/car.webp)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains a machine learning model for predicting car prices based on various features. The model is developed using TensorFlow and Keras.
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -31,7 +20,7 @@ This repository contains a machine learning model for predicting car prices base
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/car-price-prediction.git
+    git clone https://github.com/BaselAshraf81/Car_Price_Predicion.git
     ```
 
 2. Install dependencies:
@@ -45,7 +34,7 @@ This repository contains a machine learning model for predicting car prices base
 1. Navigate to the project directory:
 
     ```bash
-    cd car-price-prediction
+    cd Car_Price_Predicion
     ```
 
 2. Run the Jupyter Notebook:

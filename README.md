@@ -1,6 +1,6 @@
 # Car Price Prediction Model
 
-![Project Image](https://github.com/BaselAshraf81/Car_Price_Predicion/blob/main/images/car.webp)
+![Project Image](https://github.com/BaselAshraf81/Car_Price_Predicion/blob/main/car.webp)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

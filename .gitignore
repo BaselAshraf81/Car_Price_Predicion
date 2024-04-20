@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Compiled files
+*.class
+*.dll
+*.exe
+*.o
+
+# Temporary files
+*.log
+*.bak
+*.swp
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Miscellaneous
+.DS_Store
+*.bak
